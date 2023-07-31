@@ -1,2 +1,2 @@
-# fb-ruby
-Facebook Hacking Ruby.
+# ruby installation.
+ruby install
