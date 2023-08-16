@@ -39,3 +39,9 @@ make install
 echo PATH=$HOME/local/bin:$PATH >> ~/.bash_profile
 
 source ~/.bash_profile
+
+echo pkg install ruby clang make binutils
+echo bundle config force_ruby_platform true
+echo bundle install
+echo pkg install ruby clang make binutils
+echo gem install nokogiri --platform=ruby
